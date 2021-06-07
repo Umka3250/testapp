@@ -1,0 +1,15 @@
+{
+    "LOGIN": {
+        "HEADER": "Welcome!"
+    },
+    "BUTTONS": {
+        "SIGN_IN": "Sign In",
+        "EXIT": "Exit",
+        "RU": "Russian",
+        "EN": "English"
+    },
+    "LABELS": {
+        "EMAIL": "Email",
+        "PASSWORD": "Password"
+    }
+}
